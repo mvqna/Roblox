@@ -8,4 +8,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/Gal
 ```
 
 ## Join the discord!!
-[Discord]([https://eclipsehub.xyz](https://discord.gg/c5vJVrQQD6)https://discord.gg/c5vJVrQQD6).
+[Discord](https://discord.gg/c5vJVrQQD6).
