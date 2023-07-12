@@ -9,9 +9,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/FZe
 ## Compatibility
 FZero Hub is compatible with the following:
 * Synapse X
-* Scriptware Windows
+* Scriptware Windows/Mac
 * Krnl 
 * Fluxus
 * Electron
 * Comet
 * Kiwi X
+(Doesn't supports mobile)
