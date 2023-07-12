@@ -15,4 +15,6 @@ FZero Hub is compatible with the following:
 * Electron
 * Comet
 * Kiwi X
+
+  
 (Doesn't supports mobile)
