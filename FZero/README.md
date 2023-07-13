@@ -22,9 +22,9 @@ FZero Hub is compatible with the following:
 
 # Games
 
-Da Hood (Now working)
+Da Hood (🟢)
 
-Tower Of Hell (Now working)
+Tower Of Hell (🟢)
 
 Murder Mystery 2  (Soon)
 
