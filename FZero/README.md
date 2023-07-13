@@ -1,5 +1,5 @@
 # FZero Hub
-Hello! This is the official repository for FZero Hub. The discord website is [here](https://discord.gg/c5vJVrQQD6).
+Hello! This is the official repository for FZero Hub. The discord is [here](https://discord.gg/c5vJVrQQD6).
 
 ## Loadstring
 The current loadstring is:
@@ -18,3 +18,14 @@ FZero Hub is compatible with the following:
 
   
 (Doesn't supports mobile)
+
+
+# Games
+
+Da Hood (Now working)
+Tower Of Hell (Now working)
+Murder Mystery 2  (Soon)
+
+# Where is Lomi Hub?
+
+Lomi Hub was discontinued because it was deobfuscated and totally patched, FZero Hub is  the remake of lomi hub more better
