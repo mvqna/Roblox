@@ -44,3 +44,7 @@ Murder Mystery 2  (Soon)
 Lomi Hub was discontinued because it was deobfuscated and totally patched, FZero Hub is  the remake of lomi hub more better
 
 Soon i will use luraph cuz moonsex trash
+
+# Why your main file ends with .kys
+becaue
+kys= kill yourself
