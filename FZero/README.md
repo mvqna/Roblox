@@ -55,7 +55,9 @@ CAUSE IT HAVES MORE SUPPORT PLUS COMET IS A FUCKING TRASH THAT HAVES THE SAME FU
 # Contact me
 
 gmail: donigamerxd@gmail.com
+
 discord: mv.qna
+
 
 # Problems?
 
