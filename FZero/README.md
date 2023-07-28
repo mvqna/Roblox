@@ -15,7 +15,7 @@ The current loadstring is:
 
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/FZero/Main"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/FZero/Main.kys"))()
 ```
 ## Compatibility
 FZero Hub is compatible with the following:
