@@ -1,21 +1,22 @@
 # FZero Hub
-Hello! This is the official repository for FZero Hub. The discord is [here](https://discord.gg/c5vJVrQQD6).
+Hello, let me introduce you to FZero hub:
+![Proyecto nuevo](https://github.com/mvqna/Roblox/assets/91986184/31ef03ec-87c5-4d86-af4b-9ff1a883afda)
 
-## Loadstring
+
+## Loadstring!
+
 The current loadstring is:
 ```lua
 --[[
-
 ███████╗███████╗███████╗██████╗░░█████╗░  ░█████╗░███╗░░██╗  ████████╗░█████╗░██████╗░
 ██╔════╝╚════██║██╔════╝██╔══██╗██╔══██╗  ██╔══██╗████╗░██║  ╚══██╔══╝██╔══██╗██╔══██╗
 █████╗░░░░███╔═╝█████╗░░██████╔╝██║░░██║  ██║░░██║██╔██╗██║  ░░░██║░░░██║░░██║██████╔╝
 ██╔══╝░░██╔══╝░░██╔══╝░░██╔══██╗██║░░██║  ██║░░██║██║╚████║  ░░░██║░░░██║░░██║██╔═══╝░
 ██║░░░░░███████╗███████╗██║░░██║╚█████╔╝  ╚█████╔╝██║░╚███║  ░░░██║░░░╚█████╔╝██║░░░░░
 ╚═╝░░░░░╚══════╝╚══════╝╚═╝░░╚═╝░╚════╝░  ░╚════╝░╚═╝░░╚══╝  ░░░╚═╝░░░░╚════╝░╚═╝░░░░░
-
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/FZero/Main.kys"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mvqna/Roblox/main/FZero/Main.fzero"))()
 ```
 ## Compatibility
 FZero Hub is compatible with the following:
@@ -24,7 +25,13 @@ FZero Hub is compatible with the following:
 * Krnl 
 * Fluxus
 * Electron
+
+Doesnt supports:
+* SirHurt
+* Evon
 * Kiwi X
+* WeAreDevs API Related Exploits
+* Zeus
 
   
 (Doesn't supports mobile)
@@ -42,15 +49,6 @@ Murder Mystery 2  (Soon)
 
 Lomi Hub was discontinued because it was deobfuscated and totally patched, FZero Hub is  the remake of lomi hub more better
 
-Soon i will use luraph cuz moonsex trash
-
-# Why your main file ends with .kys
-becaue
-kys= kill yourself
-
-# Why Fluxus better than comet
-
-CAUSE IT HAVES MORE SUPPORT PLUS COMET IS A FUCKING TRASH THAT HAVES THE SAME FUCKING FLUXUS API 
 
 # Contact me
 
@@ -60,5 +58,5 @@ discord: mv.qna
 
 
 # Problems?
-
+I Do not put any attetion in this so join discord better
 https://docs.google.com/forms/d/e/1FAIpQLSexrPqc9pJswO4VgzkmpB5as6d-nokF6HakamNyFqyQ137gww/viewform?vc=0&c=0&w=1&flr=0
